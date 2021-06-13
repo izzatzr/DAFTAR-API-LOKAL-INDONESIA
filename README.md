@@ -1,3 +1,5 @@
+[![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/stargazers)
+
 # Daftar API Lokal Indonesia
 
 Berisi API tentang Data Indonesia.
@@ -43,6 +45,8 @@ Berisi API tentang Data Indonesia.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
 | Info Gempa API | Zhirrr | [Link](https://github.com/Zhirrr/gempa-rest-api) | `Aktif` | API untuk mendapatkan informasi gempa terkini dari website bmkg | `Tidak` |
+| Info Gempa & Cuaca API | Renova Muhamad Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api) | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.  | `Tidak` |
+
 
 ### Berita
 
@@ -57,10 +61,11 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Al Quran With Smart Assistant | [rizki4106](https://github.com/rizki4106) | [Link](https://www.bluenetid.com/documentation/MTE=?code=MTAtQWxRdXJhbldpdGhTbWFydEFzc2lzdGFudA==) | `Aktif` | Menerapkan Algoritma Machine learning untuk memudahkan pencarian ayat didalam alquran | `apikey` |
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Aktif` | Alquran bahasa indonesia | Tidak |
 | Quran JSON | penggguna | [Link](https://github.com/penggguna/QuranJSON) | `Aktif` | Quran JSON (Terjemahan Indonesia, Tafsir, dan Audio) | Tidak |
 | Masak Apa | Reski | [Link](https://github.com/tomorisakura/unofficial-masakapahariini-api) | `Aktif` | Buku resep makanan Indonesia | Tidak |
-| Islamic API | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian) | `Aktif` | Menyimpan Data2 Islami | Tidak |
+| Islamic API V2 | Zhirrr | [Link](https://github.com/Zhirrr/islamic-rest-api-indonesian-v2) | `Aktif` | Menyimpan Data2 Islami | Tidak |
 | Kisah Nabi API | Zhirrr | [Link](https://github.com/Zhirrr/kisahnabi-rest-api-indonesia) | `Aktif` | Menyimpan Semua Kisah 25 Nabi Allah SWT | Tidak |
 |  Unofficial KBBI API | Zhirrr | [Link](https://github.com/Zhirrr/KBBI-api) | `Aktif` | Api Scraper KBBI Beserta Code Sourcenya | Tidak |
 
@@ -90,6 +95,8 @@ Berisi API tentang Data Indonesia.
 | Duitku | Duitku | [Link](https://docs.duitku.com) | `Aktif` | Payment Gateway Indonesia | `apiKey` |
 | BCA | BCA | [Link](https://developer.bca.co.id/documentation) | `Aktif` | API Bank BCA | `apiKey` |
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Aktif` | Sebuah API yang menampilkan daftar investasi legal dan ilegal di Indonesia. Bersumber dari data Otoritas Jasa Keuangan | Tidak |
+| Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Aktif` | API Gateway resmi dari Xendit untuk mengintegrasikan aplikasi Anda dengan gateway pembayaran Xendit | `apiKey`
+| Tripay | TRIDI.NET | [Link](https://tripay.co.id/api-pulsa-h2h-murah) | `Aktif` | Bisnis Pembayaran Dalam Satu Genggaman.| `apiKey / Oauth` |
 
 ### Forum
 
@@ -102,6 +109,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Chatbot AI | Abdul Muttaqin | [Link](https://fdciabdul.tech/api/ayla/?pesan=hai) | `Aktif` | Chatbot AI  Seperti Simsimi | Tidak |
 | Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Aktif` | Mengecek zodiak berdasarkan tanggal lahir serta dapat memberitahukan detail tanggal lahir, detail usia, serta detail rentang ulang tahun terdekat. | Tidak |
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Aktif` | List film-film Indonesia dengan catatan configurasi API di set ke Negara Indonesia | `apiKey` |
 | Manga/Komik Bahasa Indonesia (Un-official) | Febry Ardiansyah | [Link](https://github.com/febryardiansyah/manga-api) | `Aktif` | Menyediakan Manga atau Komik bahasa Indonesia | Tidak |
@@ -138,7 +146,7 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
+| Pinterest Search Image | Abdul Muttaqin | [Link](http://fdciabdul.tech/api/pinterest?keyword=keyword) | `Aktif` | Mencari gambar berdasarkan keyword di platform Pinterest | Tidak |
 | Unofficial TikTok API | Abdul Muttaqin | [Link](https://api.fdci.se/api/tiktok.php) | `Aktif` | Unofficial API Tiktok Untuk Scraping | Tidak |
 | Unofficial Instagram API | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Instagram untuk Scraping Media, Stories, Profile Highlight | Tidak |
 | Twitter Video Downloader | Abay | [Link](https://documenter.getpostman.com/view/7256976/TVeqbm7z) | `Aktif` | Unofficial API Twitter untuk Scraping Video Twitter | Tidak |
@@ -171,6 +179,7 @@ Berisi API tentang Data Indonesia.
 | Kode Pos | Widnyana Putra | [Link](http://log.kalarau.net/kodepos.html) | `Tidak Aktif` | Daftar Kode Pos di Indoneisa | Tidak |
 | Kode Pos | Cain van Mason | [Link](https://nbc.vanmason.web.id/service/kodepos/42173) | `Aktif` | Daftar Kode Pos di Indonesia | Tidak |
 | Kode Pos | sooluh | [Link](https://github.com/sooluh/kodepos) | `Aktif` | Pencarian Kode Pos Indonesia Berdasarkan Nama Tempat, Desa atau Kota | Tidak |
+| Lambang Daerah Seluruh Indonesia| Feri Irawan | [Link](https://github.com/feri-irawan/API/tree/main/list/lambang-daerah-indonesia#readme) | `Aktif` | Lambang Provinsi dan Kabupaten Seluruh Indonesia (34 Provinsi dan 514 Kabupaten / Kota) | Tidak |
 | Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/blog/dokumentasi-api-daerah-indonesia/) | `Aktif` | Daftar nama Provinsi, Kabupaten, Kecamatan, dan Desa | Tidak |
 | Nama Daerah Seluruh Indonesia | ibnux | [Link](https://ibnux.github.io/data-indonesia/) | `Aktif` | JSON API nama Provinsi, Kabupaten, Kecamatan, dan Desa untuk Mobile Apps | Tidak |
 | Sekolah se Indonesia | Pemerintah Indonesia | [Link](https://data.go.id/dataset/sekolah) | `Aktif` | Daftar jumlah sekolah perwilayah, detail sekolah perwilayah dan data master wilayah | Tidak |
@@ -225,6 +234,8 @@ Berisi API tentang Data Indonesia.
 
 | Nama API        | Developer | URL | Status  | Deskripsi | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Temp Mail API | Ihsan Devs | [Link](https://api-tempmail.herokuapp.com/docs/) | `Aktif` | Sebuah API untuk membuat email sementara | Tidak |
+| FREE API | Ihsan Devs | [Link](https://backend-ihsandevs.herokuapp.com/api/) | `Aktif` | Kumpulan API gratis. | Tidak |
 | Arbanat | jajanjawa | [Link](https://arbanat.my.id) | `Aktif` | kirim sms melalui rest api | `apiKey` |
 | Qur'an Randomizer | BangHasan | [Link](https://api.banghasan.com/quran/format/json/acak) | `Aktif` | Randomizer Qur'an Lengkap | Tidak |
 | Translasi | azharimm | [Link](https://github.com/azharimm/api-translate) | `Aktif` | API translasi dengan google translate/baidu translate engine | Tidak |
@@ -234,6 +245,7 @@ Berisi API tentang Data Indonesia.
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
 | Zhirrr API | Zhirrr | [Link](https://github.com/Zhirrr/Zhirrr-Api) | `Aktif` | Menyajikan 30+ API Beserta Source Nya Gratis | apikey |
 | Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
+| Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
 
 ## Kontak
 
